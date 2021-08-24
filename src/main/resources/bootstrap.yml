@@ -14,3 +14,15 @@ spring:
     user:
       name: root
       password: s3cr3t
+
+#spring:
+ # cloud:
+  #  config:
+   #   server:
+    #    default-label: develop
+     #   git:
+      #    uri: file:///C:/Users/Luis.Moncada/Documents/Java/PracticaPragma/config-data
+  #security:
+   # user:
+    #  name: root
+     # password: s3cr3t
